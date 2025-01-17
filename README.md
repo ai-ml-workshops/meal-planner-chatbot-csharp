@@ -13,7 +13,7 @@ Ref: https://github.com/ai-ml-workshops/meal-planner-chatbot
 Prereqs: 
 1. Visual Studio 2022 and .NET 8
 2. OpenAI API Key
-3. Postgres w/ the PGVector extension.
+3. Install Postgres w/ the PGVector extension. (I'd suggest running it in a Docker container).
 
 Refer to https://github.com/ai-ml-workshops/SystemPrereqs/blob/main/2025-CodeMash.md for setting those things up.
 
